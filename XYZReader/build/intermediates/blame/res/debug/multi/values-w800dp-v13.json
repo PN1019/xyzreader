@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w800dp-v13\\values-w800dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-w800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 34,
+                        "endColumn": 47,
+                        "endOffset": 77
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 49,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-w800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 49,
+                        "endOffset": 226
+                    }
+                }
+            }
+        ]
+    }
+]

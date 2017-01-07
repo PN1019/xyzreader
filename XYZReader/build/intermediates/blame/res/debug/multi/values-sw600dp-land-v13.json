@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 59,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 50,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 79,
+                        "endColumn": 50,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 59,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 59,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 53,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 53,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 41,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 41,
+                        "endOffset": 353
+                    }
+                }
+            }
+        ]
+    }
+]
