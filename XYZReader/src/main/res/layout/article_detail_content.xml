@@ -2,34 +2,34 @@
 <LinearLayout
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
-<LinearLayout
-android:id="@+id/article_detail_body_headers"
-    android:layout_height="wrap_content"
-    android:layout_width="match_parent"
-    android:padding="@dimen/article_detail_content_margin"
-    android:background="@color/cardview_dark_background"
-    android:orientation="vertical">
-
-    <TextView
-        android:id="@+id/tv_article_title"
+    <LinearLayout
+        android:id="@+id/article_detail_body_headers"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="0dp"
-        android:textAppearance="@style/TextAppearance.AppCompat.Title"
-        android:textColor="@android:color/background_light"/>
-    <TextView
-        android:id="@+id/tv_article_info"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_margin="0dp"
-        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
-        android:textColor="@android:color/background_light"/>
+        android:padding="@dimen/article_detail_content_margin"
+        android:background="@color/cardview_dark_background"
+        android:orientation="vertical">
 
+        <TextView
+            android:id="@+id/tv_article_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="@android:color/background_light"/>
+        <TextView
+            android:id="@+id/tv_article_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+            android:textColor="@android:color/background_light"/>
 
-</LinearLayout>
+    </LinearLayout>
+
     <TextView
         android:id="@+id/tv_article_body"
         android:layout_width="match_parent"
@@ -40,4 +40,4 @@ android:id="@+id/article_detail_body_headers"
         android:textSize="@dimen/article_detail_body_text_size"
         android:autoLink="web"
         android:linksClickable="true"/>
-    </LinearLayout>
+</LinearLayout>

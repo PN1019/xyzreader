@@ -127,11 +127,11 @@
                 "from": {
                     "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-land\\dimens.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 190,
+                        "startOffset": 186,
                         "endColumn": 59,
-                        "endOffset": 245
+                        "endOffset": 241
                     }
                 }
             },
@@ -148,9 +148,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 83,
+                        "startOffset": 80,
                         "endColumn": 50,
-                        "endOffset": 129
+                        "endOffset": 126
                     }
                 }
             },
@@ -165,11 +165,11 @@
                 "from": {
                     "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-land\\dimens.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 251,
+                        "startOffset": 246,
                         "endColumn": 58,
-                        "endOffset": 305
+                        "endOffset": 300
                     }
                 }
             },
@@ -184,11 +184,11 @@
                 "from": {
                     "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-land\\dimens.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 135,
+                        "startOffset": 132,
                         "endColumn": 53,
-                        "endOffset": 184
+                        "endOffset": 181
                     }
                 }
             },
@@ -197,17 +197,17 @@
                     "startLine": 12,
                     "startColumn": 4,
                     "startOffset": 686,
-                    "endColumn": 57,
-                    "endOffset": 739
+                    "endColumn": 41,
+                    "endOffset": 723
                 },
                 "from": {
-                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml",
+                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-land\\dimens.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 88,
-                        "endColumn": 57,
-                        "endOffset": 141
+                        "startOffset": 306,
+                        "endColumn": 41,
+                        "endOffset": 343
                     }
                 }
             },
@@ -215,48 +215,10 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 744,
-                    "endColumn": 51,
-                    "endOffset": 791
-                },
-                "from": {
-                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 51,
-                        "endOffset": 83
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 796,
-                    "endColumn": 41,
-                    "endOffset": 833
-                },
-                "from": {
-                    "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-land\\dimens.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 313,
-                        "endColumn": 41,
-                        "endOffset": 350
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 838,
-                    "endLine": 18,
+                    "startOffset": 728,
+                    "endLine": 16,
                     "endColumn": 12,
-                    "endOffset": 1015
+                    "endOffset": 905
                 },
                 "from": {
                     "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-land\\values-land.xml",

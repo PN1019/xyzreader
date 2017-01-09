@@ -34,9 +34,9 @@
     <color name="cardview_light_background">#FFFAFAFA</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="colorPrimaryDark">#1ad9d9</color>
-    <color name="color_Primary">#f8e331</color>
+    <color name="color_Accent">#2979FF</color>
+    <color name="color_Primary">#2196F3</color>
+    <color name="color_Primary_Dark">#1565C0</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
     <color name="design_fab_shadow_start_color">#44000000</color>
@@ -199,10 +199,8 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="article_detail_body_text_size">18sp</dimen>
-    <dimen name="article_detail_body_title_text_size">32sp</dimen>
     <dimen name="article_detail_content_margin">8dp</dimen>
     <dimen name="article_detail_photo_height">304dp</dimen>
-    <dimen name="article_vertical_margin">16dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
@@ -284,27 +282,21 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="action_refresh">Refresh</string>
     <string name="action_retry_connection">Retry</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_share">Share</string>
-    <string name="app_name">XYZ Reader</string>
+    <string name="app_name">XYZ Reader test</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="error_connection">Connection Error</string>
     <string name="error_data_availability">Content Not Ready</string>
     <string name="send_to">Share Article Content</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="up">Up</string>
-    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/color_Primary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-
+        <item name="colorPrimaryDark">@color/color_Primary_Dark</item>
+        <item name="colorAccent">@color/color_Accent</item>
     </style>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1517,7 +1509,8 @@
         <item name="windowNoTitle">true</item>
     </style>
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        </style>
+
+    </style>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>

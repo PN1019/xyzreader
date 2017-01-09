@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.design.widget.AppBarLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<android.support.design.widget.AppBarLayout
     android:layout_width="match_parent"
     android:layout_height="@dimen/article_detail_photo_height"
     android:fitsSystemWindows="true"
     android:elevation="@dimen/cardview_default_elevation"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
     <android.support.design.widget.CollapsingToolbarLayout
-        android:id="@+id/collasping_toolbar_article_detail"
+        android:id="@+id/collapsing_toolbar_article_detail"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
@@ -16,20 +16,15 @@
         <ImageView
             android:id="@+id/iv_article_detail_image"
             android:layout_width="match_parent"
-            android:layout_height="668dp"
+            android:layout_height="match_parent"
             android:fitsSystemWindows="true"
-            android:scaleType="centerCrop"
-            android:contentDescription="Image for Article Description"
-            tools:ignore="HardcodedText" />
+            android:scaleType="centerCrop"/>
         <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_article_detail"
             android:layout_width="match_parent"
             android:layout_height="?actionBarSize"
             app:layout_collapseMode="pin"
-            app:navigationIcon="@drawable/ic_back"
-            android:id="@+id/toolbar_article_detail">
-            </android.support.v7.widget.Toolbar>
-
-
+            app:navigationIcon="@drawable/ic_back">
+        </android.support.v7.widget.Toolbar>
     </android.support.design.widget.CollapsingToolbarLayout>
-
 </android.support.design.widget.AppBarLayout>

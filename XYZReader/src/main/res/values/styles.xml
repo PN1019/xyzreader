@@ -16,18 +16,17 @@
 -->
 
 <resources>
-
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/color_Primary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-
+        <item name="colorPrimaryDark">@color/color_Primary_Dark</item>
+        <item name="colorAccent">@color/color_Accent</item>
     </style>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        </style>
+
+    </style>
+
     <style name="transparent_status_bar" parent="AppTheme">
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
-
 </resources>

@@ -32,11 +32,11 @@
                 "from": {
                     "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-w800dp\\macro_layout.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 181,
+                        "startOffset": 109,
                         "endColumn": 49,
-                        "endOffset": 226
+                        "endOffset": 154
                     }
                 }
             }

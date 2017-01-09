@@ -7,8 +7,6 @@
     <dimen name="article_detail_photo_height">450dp</dimen>
     <dimen name="detail_cardview_overlap_top">140dp</dimen>
 
-
-
     <dimen name="fab_margin">24dp</dimen>
 
 </resources>

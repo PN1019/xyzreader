@@ -15,9 +15,9 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 188,
+                        "startOffset": 182,
                         "endColumn": 59,
-                        "endOffset": 243
+                        "endOffset": 237
                     }
                 }
             },
@@ -34,9 +34,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 79,
+                        "startOffset": 76,
                         "endColumn": 50,
-                        "endOffset": 125
+                        "endOffset": 122
                     }
                 }
             },
@@ -53,9 +53,9 @@
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 249,
+                        "startOffset": 242,
                         "endColumn": 59,
-                        "endOffset": 304
+                        "endOffset": 297
                     }
                 }
             },
@@ -72,9 +72,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 133,
+                        "startOffset": 128,
                         "endColumn": 53,
-                        "endOffset": 182
+                        "endOffset": 177
                     }
                 }
             },
@@ -89,11 +89,11 @@
                 "from": {
                     "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 316,
+                        "startOffset": 303,
                         "endColumn": 41,
-                        "endOffset": 353
+                        "endOffset": 340
                     }
                 }
             }

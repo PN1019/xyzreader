@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context=".ui.ArticleDetailActivity">
+    tools:context=".ui.detail.ArticleDetailActivity">
 
     <include layout="@layout/appbar_detail"/>
 
@@ -34,7 +34,7 @@
     <FrameLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_anchor="@id/collasping_toolbar_article_detail"
+        app:layout_anchor="@id/collapsing_toolbar_article_detail"
         app:layout_anchorGravity="center_vertical|center_horizontal">
         <include layout="@layout/progressbar_detail_layout"/>
     </FrameLayout>

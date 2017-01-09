@@ -28,7 +28,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.xyzreader.ui.ArticleDetailActivity"
+            android:name="com.example.xyzreader.ui.detail.ArticleDetailActivity"
             android:parentActivityName="com.example.xyzreader.ui.MainActivity"
             android:theme="@style/transparent_status_bar" >
             <intent-filter>

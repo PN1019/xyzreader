@@ -7,11 +7,11 @@
     <include layout="@layout/appbar_main"/>
     <FrameLayout
         android:layout_height="match_parent"
-        android:layout_width="match_parent"
-        android:padding="@dimen/list_side_margin"
+        android:layout_width="@dimen/article_list_width"
+        android:layout_gravity="center_horizontal"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <include layout="@layout/activity_article_list"/>
     </FrameLayout>
-
+    <!--include without FrameLayout will not work for scrolling behavior-->
 </android.support.design.widget.CoordinatorLayout>
