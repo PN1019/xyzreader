@@ -15,9 +15,9 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 182,
+                        "startOffset": 181,
                         "endColumn": 59,
-                        "endOffset": 237
+                        "endOffset": 236
                     }
                 }
             },
@@ -53,9 +53,9 @@
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 242,
+                        "startOffset": 241,
                         "endColumn": 59,
-                        "endOffset": 297
+                        "endOffset": 296
                     }
                 }
             },
@@ -64,8 +64,8 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 226,
-                    "endColumn": 53,
-                    "endOffset": 275
+                    "endColumn": 52,
+                    "endOffset": 274
                 },
                 "from": {
                     "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
@@ -73,8 +73,8 @@
                         "startLine": 5,
                         "startColumn": 4,
                         "startOffset": 128,
-                        "endColumn": 53,
-                        "endOffset": 177
+                        "endColumn": 52,
+                        "endOffset": 176
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 280,
+                    "startOffset": 279,
                     "endColumn": 41,
-                    "endOffset": 317
+                    "endOffset": 316
                 },
                 "from": {
                     "file": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 303,
+                        "startOffset": 302,
                         "endColumn": 41,
-                        "endOffset": 340
+                        "endOffset": 339
                     }
                 }
             }

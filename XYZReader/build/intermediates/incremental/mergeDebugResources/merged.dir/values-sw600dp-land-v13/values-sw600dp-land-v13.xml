@@ -3,6 +3,6 @@
     <dimen name="article_detail_photo_height">450dp</dimen>
     <dimen name="article_list_width">600dp</dimen>
     <dimen name="detail_cardview_overlap_top">140dp</dimen>
-    <dimen name="detail_cardview_width">800dp</dimen>
+    <dimen name="detail_cardview_width">80dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 </resources>

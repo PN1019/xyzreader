@@ -124,12 +124,12 @@
         "source": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
         "source": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\abhi\\AndroidStudioProjects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
